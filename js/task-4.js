@@ -1,5 +1,5 @@
 function getShippingCost(country) {
-    let credit;
+    let price;
     let message;
 
     switch (country) {
